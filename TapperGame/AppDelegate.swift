@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  TapperGame
-//
-//  Created by Roman on 12/25/15.
-//  Copyright © 2015 Roman Puzey. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
