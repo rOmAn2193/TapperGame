@@ -1,1 +1,2 @@
-#Tapper game written in Swift with self-made UI
+#Tapper game 
+Written in Swift with self-made UI
